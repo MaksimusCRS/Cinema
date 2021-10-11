@@ -30,7 +30,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #52044e 85.62%), url('/Image/bg1.jpg') no-repeat center top / cover;
+    background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #52044e 85.62%), url('../Image/bg1.jpg') no-repeat center top / cover;
     padding-bottom: 60px;
 }
 
